@@ -1,0 +1,10 @@
+/*Ritik Patel*/
+.logo {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	width:350px; 
+	height:300px; 
+	margin-bottom:100px; 
+	/*margin-top:-150px*/
+	float: left;
+	
+}
